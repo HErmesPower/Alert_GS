@@ -1,0 +1,11 @@
+# Dependências e cache
+node_modules/
+.expo/
+
+# Arquivos de ambiente (é uma boa prática)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
